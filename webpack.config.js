@@ -41,7 +41,7 @@ const config = {
     path: path.join(__dirname, 'dist'),
     filename: '[name].js',
     libraryTarget: 'umd',
-    library: 'ReactSortableTreeThemeFileExplorer',
+    library: 'themeTreeMaterialUI',
   },
   devtool: 'source-map',
   plugins: [
